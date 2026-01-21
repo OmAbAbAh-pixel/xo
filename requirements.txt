@@ -1,0 +1,10 @@
+kivy.app
+kivy.uix.gridlayout
+kivy.uix.button
+kivy.uix.label
+kivy.uix.boxlayout
+kivy.uix.popup
+kivy.clock
+functools
+random
+os
