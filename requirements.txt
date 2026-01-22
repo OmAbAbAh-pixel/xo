@@ -1,2 +1,1 @@
-kivy
-flet
+kivy==2.2.1
